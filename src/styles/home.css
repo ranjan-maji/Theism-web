@@ -1,0 +1,18 @@
+.text1{
+    display: flex;
+    justify-content: center;
+    color: rgb(77, 77, 77);
+}
+.text2{
+
+    display: flex;
+    justify-content: center;
+    color: rgb(77, 77, 77);
+    
+
+}
+
+.homelogo{
+    display: flex;
+    justify-content: center;
+}
